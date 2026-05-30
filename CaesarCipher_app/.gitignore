@@ -1,0 +1,103 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.ReSharper*
+_ReSharper.Caches/
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish
+publish/
+*.Publish.xml
+*.pubxml
+*.publishsettings
+
+# MSBuild
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.exe
+*.dll
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# Node / VS Code
+node_modules/
+.vscode/
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# JetBrains Rider caches
+.idea/
+*.sln.iml
+
+# Temporary
+*.tmp
+~$*
+
+# Ignore packages folder created by NuGet for older projects
+packages/
+
+# Ignore publish output
+publish/
+
+# Ignore generated resource files
+*_i.c
+*_p.c
+*.ilk
+
+# Ignore test binaries
+**/TestResults/
+**/*Test*.dll
