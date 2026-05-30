@@ -24,3 +24,5 @@ Kleines Windows Forms Projekt zur Demonstration verschiedener Verschlüsselungsv
 
 ## Lizenz
 MIT
+
+Siyamend Abdenour - 2026
